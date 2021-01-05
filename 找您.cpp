@@ -2,10 +2,10 @@
 int main (void)
 {
 	int price=0;
-	printf("ÇëÊäÈë½ğ¶î");
+	printf("è¯·è¾“å…¥ä»·æ ¼");
 	scanf("%d",&price) ;
 	int a=100-price;
-	printf("ÕÒÄú%d",a);
+	printf("æ‰¾æ‚¨%d",a);
 	
 	
 	

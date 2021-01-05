@@ -12,7 +12,7 @@ int main(void){
      	sgt=sgt^a[i];
      	
 		 }	
-		printf("µ¥Éí¹·ÊÇ%d",sgt);
+		printf("å•èº«ç‹—æ˜¯%d",sgt);
 	
 	
 	
