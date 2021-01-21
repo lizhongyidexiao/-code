@@ -15,3 +15,4 @@ int main()
 	
 	return 0;
 }
+//int*p=NULL;指针不知道给什么值，可以先NULL，NULL  ==（void*）0 
